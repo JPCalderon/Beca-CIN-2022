@@ -12,7 +12,7 @@ Por otro lado, a medida que las imágenes CCD extienden su cobertura espacial pr
 El material observacional propuesto para este plan de trabajo corresponde a imágenes de distribución libre del [DESI Legacy Imaging Surveys](https://www.legacysurvey.org/) (muestra reducida) y de la colaboración [S-PLUS](https://www.splus.iag.usp.br/). El punto de partida para el desarrollo del código será el paquete isophote de Astropy y código propios producidos en otros lenguajes informáticos ([Calderón et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1760C/abstract)).
 
 En este plan se propone: 
-- Realizar un análisis resumido de los software existentes (SExtractor, GALfit, isophote, etc.)
+- Realizar un análisis resumido de los software existentes ([SExtractor](https://sextractor.readthedocs.io/en/latest/Introduction.html), [GALfit](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html), [isophote](https://photutils.readthedocs.io/en/stable/isophote.html), etc.)
 - Establecer e implementar tareas específicas que aún no hayan sido desarrolladas en los softwares analizados (p. ej., corrección por nivel de cielo, fotometría de varios filtros, etc.)
 - Aplicar el código propuesto sobre una muestra reducida de galaxias de tipo temprano de algún cúmulo cercano (Fornax y/o Antlia) $^{*}$.
 - Comparar los resultados con los publicados en la literatura.
