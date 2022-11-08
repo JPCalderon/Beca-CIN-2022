@@ -2,14 +2,14 @@
 Caracterización de galaxias en contexto de big data
 
 # Objetivo específico
-Desarrollar un paquete de Python que permita calcular el perfil de brillo de una galaxia y obtener sus propiedades estructurales. Además, debe brindar la posibilidad de ajustar modelos numéricos al perfil en forma interactiva. 
+Desarrollar un paquete de [Python](https://www.python.org/) que permita calcular el perfil de brillo de una galaxia y obtener sus propiedades estructurales. Además, debe brindar la posibilidad de ajustar modelos numéricos al perfil en forma interactiva. 
 
 # Objetivo general
 El cálculo de perfiles de brillo a través de ajustes de isofotas es una técnica que permite estudiar la evolución de los parámetros estructurales de una galaxia desde la zona central hasta sus radios más externos. En particular, para galaxias de tipo temprano, esta técnica es de gran importancia y es un muy buen punto de partida como introducción al estudio de galaxias en el contexto de cúmulos y grupos, como así también, para ejercitar el desarrollo de código informático aplicado a astronomía.
 
 Por otro lado, a medida que las imágenes CCD extienden su cobertura espacial proyectada y las bases de datos de los observatorios y surveys se vuelven más accesibles, aumenta la importancia de desarrollar software específico para el procesamiento de grandes volúmenes de datos (big data).
 
-El material observacional propuesto para este plan de trabajo corresponde a imágenes de distribución libre del DESI Legacy Imaging Surveys (muestra reducida) y de la colaboración S-PLUS. El punto de partida para el desarrollo del código será el paquete isophote de Astropy y código propios producidos en otros lenguajes informáticos (Calderón et al. 2018).
+El material observacional propuesto para este plan de trabajo corresponde a imágenes de distribución libre del [DESI Legacy Imaging Surveys](https://www.legacysurvey.org/) (muestra reducida) y de la colaboración [S-PLUS](https://www.splus.iag.usp.br/). El punto de partida para el desarrollo del código será el paquete isophote de Astropy y código propios producidos en otros lenguajes informáticos ([Calderón et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1760C/abstract)).
 
 En este plan se propone: 
 - Realizar un análisis resumido de los software existentes (SExtractor, GALfit, isophote, etc.)
@@ -24,6 +24,9 @@ $^{*}$ En el caso de cumplir los objetivos antes del tiempo estipulado para la b
 # Contacto
 Dr. Juan Pablo Calderón (jpcalderon@fcaglp.unlp.edu.ar) <br />
 Dra. Analia Smith-Castelli (asmith@fcaglp.unlp.edu.ar)
+
+# Información sobre la Beca CIN
+- https://evc.cin.edu.ar/
 
 # Referencias
 [1] https://github.com/legacysurvey/legacysurvey <br />
